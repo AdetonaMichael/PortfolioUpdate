@@ -10,6 +10,7 @@ import { Testimonials } from './components/testimonials/Testimonials';
 import Contact from './components/contact/Contact';
 import Footer from './components/footer/Footer';
 import About from './components/about/About';
+import Certification from './components/certifications/Certification';
 
 const App = () => {
   return (
@@ -18,6 +19,7 @@ const App = () => {
         <Nav/>
         <About/>
         <Experience/>
+        <Certification/>
         <Services/>
         <Portfolio/>
         <Testimonials/>

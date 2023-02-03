@@ -1,19 +1,26 @@
-.container .testimonials__container{
-    width:40%;
-    padding-bottom:4rem;
+.container .certifications__container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+
 }
-.client__avatar{
-    width:4rem;
-    aspect-ratio:1/1;
+.client__pix{
+    width:auto;
     overflow:hidden;
-    border-radius: 50%;
+    border-radius: 1rem;
     margin:0 auto 1rem;
-    border: 0.4rem solid var(--color-light);
 }
-.testimonial{
+@media (min-width:768px){
+    .client__pix{
+        width:24rem;
+    }
+ .certifications__container{
+        display: flex;
+    }
+}
+.certification{
     background:var(--color-primary-variant);
     text-align: center;
-    padding:2rem;
+    margin:1rem;
     border-radius: 2rem;
     user-select: none;
 }
@@ -24,28 +31,27 @@
     width:80%;
     margin:0.8rem auto 0;
 }
-.swiper-pagination-clickable .swiper-pagination-bullet{
-    background:'#fff';
-}
+
 
 
 /* ==========================Tablet View===================*/
 @media screen and(max-width:1024px){
-    .container.testimonials__container{
+    .container.certifications__container{
         width:60%;
+        display: flex;
+  
     }
 }
 
 
 /*==========================Mobile View==========================*/
 @media screen and(max-width:600px){
-    .container.testimonials__container{
+    .container.certifications__container{
         width: var(--container-width-sm);
+        display: block;
     }
     .client__review{
         width:var(--container-width-sm)
     }
-    .swiper-slide{
-        width:auto;
-    }
+
 }

@@ -20,7 +20,7 @@
 }
 .contact__option:hover{
     background-color: transparent;
-    border-color:var(--color-primary-variant);
+    border-color:var(--color-white);
 }
 .contact__option-icon{
     font-size:2rem;

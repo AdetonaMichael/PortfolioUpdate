@@ -1,8 +1,8 @@
 import React from 'react';
 import './Portfolio.css';
 import IMG1 from '../../assets/portfolio1.PNG';
-import IMG2 from '../../assets/portfolio2.jpg';
-import IMG3 from '../../assets/portfolio3.jpg';
+import voot from '../../assets/voot.PNG';
+import portfolio3 from '../../assets/portfolio3.png';
 import IMG4 from '../../assets/portfolio4.jpg';
 // import IMG5 from '../../assets/portfolio5.jpg';
 // import IMG6 from '../../assets/portfolio6.jpg';
@@ -26,7 +26,7 @@ const Portfolio = () => {
         </article>
         <article className='portfolio__item'>
           <div className='portfolio__item-image'>
-            <img src={IMG2} alt="Discussion Forum"/>
+            <img src={voot} alt="Discussion Forum"/>
           </div>
           <h3>This is a portfolio item title</h3>
           <div className='portfolio__item-cta'>
@@ -36,7 +36,7 @@ const Portfolio = () => {
         </article>
         <article className='portfolio__item'>
           <div className='portfolio__item-image'>
-            <img src={IMG3} alt="Discussion Forum"/>
+            <img src={portfolio3} alt="Discussion Forum"/>
           </div>
           <h3>This is a portfolio item title</h3>
           <div className='portfolio__item-cta'>
