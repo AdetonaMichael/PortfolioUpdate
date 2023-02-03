@@ -30,6 +30,7 @@
     background:var(--color-white);
     color:var(--color-primary);
     margin:5px;
+    padding:5px;
     border-radius: 1rem;
     text-align: center;
 }
@@ -37,4 +38,25 @@
     display:grid;
     grid-template-columns: 1fr 1fr 1fr;
     gap:1rem;
+}
+
+/* ===================Experience Tablet=================*/
+@media screen and (max-width:1024px){
+    .experience__container{
+        grid-template-columns: 1fr;
+    }
+    .experience__container >div {
+        width:80%; padding:1rem; margin:0 auto;
+    }
+    .experience__content{
+        padding:1rem;
+    }
+}
+
+/* ===============Mobile Devices ========================*/
+@media screen and (max-width:600px){
+    .experience__container{
+        width:100%;
+        padding:2rem 1rem;
+    }
 }

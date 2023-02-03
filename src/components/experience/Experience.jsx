@@ -15,57 +15,57 @@ const Experience = () => {
             <article className='experience__details'>
                      <BsPatchCheckFill/>
                      <h4>PHP</h4>
-                     <small className=''>Experienced</small>
+                     <small className=''></small>
                    </article>
             <article className='experience__details'>
                      <BsPatchCheckFill/>
                      <h4>Laravel</h4>
-                     <small className=''>Experienced</small>
+                     <small className=''></small>
                    </article>
             <article className='experience__details'>
                      <BsPatchCheckFill/>
                      <h4>Python</h4>
-                     <small className=''>Experienced</small>
+                     <small className=''></small>
             </article>
             <article className='experience__details'>
                      <BsPatchCheckFill/>
                      <h4>JavaScript</h4>
-                     <small className=''>Experienced</small>
+                     <small className=''></small>
             </article>
             <article className='experience__details'>
                      <BsPatchCheckFill/>
                      <h4>CSS </h4>
-                     <small className=''>Experienced</small>
+                     <small className=''></small>
             </article>
             <article className='experience__details'>
                      <BsPatchCheckFill/>
                      <h4>Tailwind CSS</h4>
-                     <small className=''>Experienced</small>
+                     <small className=''></small>
             </article>
             <article className='experience__details'>
                      <BsPatchCheckFill/>
                      <h4>Bootstrap</h4>
-                     <small className=''>Experienced</small>
+                     <small className=''></small>
             </article>
             <article className='experience__details'>
                      <BsPatchCheckFill/>
                      <h4>React</h4>
-                     <small className=''>Experienced</small>
+                     <small className=''></small>
             </article>
             <article className='experience__details'>
                      <BsPatchCheckFill/>
                      <h4>React Native</h4>
-                     <small className=''>Experienced</small>
+                     <small className=''></small>
             </article>
             <article className='experience__details'>
                      <BsPatchCheckFill/>
                      <h4>AWS</h4>
-                     <small className=''>Experienced</small>
+                     <small className=''></small>
             </article>
             <article className='experience__details'>
                      <BsPatchCheckFill/>
                      <h4>Git</h4>
-                     <small className=''>Experienced</small>
+                     <small className=''></small>
             </article>
             </div>
             </div>
@@ -75,22 +75,22 @@ const Experience = () => {
             <article className='experience__details'>
                      <BsPatchCheckFill/>
                      <h4>Spatial Analysis</h4>
-                     <small className=''>Experienced</small>
+                     <small className=''></small>
                    </article>
             <article className='experience__details'>
                      <BsPatchCheckFill/>
                      <h4>Custom Maps</h4>
-                     <small className=''>Experienced</small>
+                     <small className=''></small>
             </article>
             <article className='experience__details'>
                      <BsPatchCheckFill/>
                      <h4>WebGIS</h4>
-                     <small className=''>Experienced</small>
+                     <small className=''></small>
             </article>
             <article className='experience__details'>
                      <BsPatchCheckFill/>
                      <h4>GIS Mobile</h4>
-                     <small className=''>Experienced</small>
+                     <small className=''></small>
             </article>
             </div>
             </div>
