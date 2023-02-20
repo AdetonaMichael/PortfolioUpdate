@@ -46,27 +46,26 @@
     margin-bottom: 2rem;
 }
 .about__card h5{
-    color:var(--color-primary);
     font-size: 0.95rem;
 }
 .about__card:hover{
     background:transparent;
-    color:var(--color-white) !important;
+    color:#fff !important;
     border-color:var(--color-white);
-    cursor:default;
+    cursor:default
+
 }
 .about__icon{
-    color:var(--color-primary);
+
     font-size: 1.4rem;
     margin-bottom: 1rem;
 }
 .about__card small{
     font-size:0.7rem;
-    color:var(--color-primary);
+
 }
 .bout_content p{
     margin:2rem 0 2.6rem;
-    color:var(--color-primary);
 }
 
 /*===============Tablet Device ================*/

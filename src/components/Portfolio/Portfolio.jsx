@@ -4,8 +4,9 @@ import IMG1 from '../../assets/portfolio1.PNG';
 import voot from '../../assets/voot.PNG';
 import portfolio3 from '../../assets/portfolio3.png';
 import IMG4 from '../../assets/portfolio4.jpg';
-// import IMG5 from '../../assets/portfolio5.jpg';
-// import IMG6 from '../../assets/portfolio6.jpg';
+import GeoDiscuss from '../../assets/GeoDiscuss.jfif';
+import Emobile from '../../assets/emobile.png';
+
 
 const Portfolio = () => {
   return (
@@ -16,7 +17,9 @@ const Portfolio = () => {
       <div className='container portfolio__container'>
         <article className='portfolio__item'>
           <div className='portfolio__item-image'>
+          <a data-fancybox="gallery" href={IMG1}>
             <img src={IMG1} alt="Discussion Forum"/>
+           </a>
           </div>
           <h3>This is a portfolio item title</h3>
           <div className='portfolio__item-cta'>
@@ -26,7 +29,9 @@ const Portfolio = () => {
         </article>
         <article className='portfolio__item'>
           <div className='portfolio__item-image'>
+          <a data-fancybox="gallery" href={voot}>
             <img src={voot} alt="Discussion Forum"/>
+           </a>
           </div>
           <h3>This is a portfolio item title</h3>
           <div className='portfolio__item-cta'>
@@ -36,7 +41,9 @@ const Portfolio = () => {
         </article>
         <article className='portfolio__item'>
           <div className='portfolio__item-image'>
+          <a data-fancybox="gallery" href={portfolio3}>
             <img src={portfolio3} alt="Discussion Forum"/>
+           </a>
           </div>
           <h3>This is a portfolio item title</h3>
           <div className='portfolio__item-cta'>
@@ -46,7 +53,9 @@ const Portfolio = () => {
         </article>
         <article className='portfolio__item'>
           <div className='portfolio__item-image'>
+          <a data-fancybox="gallery" href={IMG4}>
             <img src={IMG4} alt="Discussion Forum"/>
+            </a>
           </div>
           <h3>This is a portfolio item title</h3>
           <div className='portfolio__item-cta'>
@@ -56,7 +65,9 @@ const Portfolio = () => {
         </article>
         <article className='portfolio__item'>
           <div className='portfolio__item-image'>
+          <a data-fancybox="gallery" href={IMG1}>
             <img src={IMG1} alt="Discussion Forum"/>
+            </a>
           </div>
           <h3>This is a portfolio item title</h3>
           <div className='portfolio__item-cta'>
@@ -66,9 +77,26 @@ const Portfolio = () => {
         </article>
         <article className='portfolio__item'>
           <div className='portfolio__item-image'>
-            <img src={IMG1} alt="Discussion Forum"/>
+          <a data-fancybox="gallery" href={Emobile}>
+            <img src={Emobile} alt="Discussion Forum"/>
+           </a>
           </div>
           <h3>This is a portfolio item title</h3>
+          <div className='portfolio__item-cta'>
+          <a href="#" className='btn'target='_blank'>Github</a>
+          <a href="#" className='btn btn-primary' target='_blank'>Live Demo</a>
+          </div>
+        </article>
+        <article className='portfolio__item'>
+          <div className='portfolio__item-image'>
+          <a data-fancybox="gallery" href={GeoDiscuss}>
+            <img src={GeoDiscuss} alt="Discussion Forum"/>
+           </a>
+          </div>
+          <br/>
+          <h2>GEO-DISCUSS</h2>
+          <br/>
+          <h4>A Discussion Fourm With Spatial analysis functionality To enable Collaborative GIS activities By Users</h4>
           <div className='portfolio__item-cta'>
           <a href="#" className='btn'target='_blank'>Github</a>
           <a href="#" className='btn btn-primary' target='_blank'>Live Demo</a>

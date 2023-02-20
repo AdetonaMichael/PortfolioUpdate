@@ -19,6 +19,7 @@ code {
   box-sizing: 0;;
   list-style-type:none;
   text-decoration: none;
+  font-size: small;
 }
 
 :root{

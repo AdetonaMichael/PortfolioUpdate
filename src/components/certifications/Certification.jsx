@@ -19,56 +19,72 @@ const Certification = () => {
           <article className='certification'>
           <h5 className='client__name'>Moses Ogboche</h5>
             <div className='client__pix'>
+            <a data-fancybox="gallery" href={cert1}>
               <img src={cert1} alt="Clent pix"></img>
+            </a>
             </div>
              <small className='client__review'>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ducimus commodi porro vel dignissimos veniam mollitia neque!</small>
           </article>
           <article className='certification'>
           <h5 className='client__name'>Moses Ogboche</h5>
             <div className='client__pix'>
+            <a data-fancybox="gallery" href={cert2}>
               <img src={cert2} alt="Clent pix"></img>
+            </a>
             </div>
              <small className='client__review'>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ducimus commodi porro vel dignissimos veniam mollitia neque!</small>
           </article>     
           <article className='certification'>
           <h5 className='client__name'>Moses Ogboche</h5>
             <div className='client__pix'>
+            <a data-fancybox="gallery" href={cert3}>
               <img src={cert3} alt="Clent pix"></img>
+            </a>
             </div>
              <small className='client__review'>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ducimus commodi porro vel dignissimos veniam mollitia neque!</small>
           </article>     
           <article className='certification'>
           <h5 className='client__name'>Moses Ogboche</h5>
             <div className='client__pix'>
+            <a data-fancybox="gallery" href={cert4}>
               <img src={cert4} alt="Clent pix"></img>
+             </a>
             </div>
              <small className='client__review'>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ducimus commodi porro vel dignissimos veniam mollitia neque!</small>
           </article>     
           <article className='certification'>
           <h5 className='client__name'>Moses Ogboche</h5>
             <div className='client__pix'>
+            <a data-fancybox="gallery" href={cert5}>
               <img src={cert5} alt="Clent pix"></img>
+            </a>
             </div>
              <small className='client__review'>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ducimus commodi porro vel dignissimos veniam mollitia neque!</small>
           </article>     
           <article className='certification'>
           <h5 className='client__name'>Moses Ogboche</h5>
             <div className='client__pix'>
+            <a data-fancybox="gallery" href={cert5}>
               <img src={cert6} alt="Clent pix"></img>
+            </a>
             </div>
              <small className='client__review'>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ducimus commodi porro vel dignissimos veniam mollitia neque!</small>
           </article>     
           <article className='certification'>
           <h5 className='client__name'>Moses Ogboche</h5>
             <div className='client__pix'>
+            <a data-fancybox="gallery" href={cert7}>
               <img src={cert7} alt="Clent pix"></img>
+            </a>
             </div>
              <small className='client__review'>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ducimus commodi porro vel dignissimos veniam mollitia neque!</small>
           </article>     
           <article className='certification'>
           <h5 className='client__name'>Moses Ogboche</h5>
             <div className='client__pix'>
+            <a data-fancybox="gallery" href={cert8}>
               <img src={cert8} alt="Clent pix"></img>
+            </a>
             </div>
              <small className='client__review'>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ducimus commodi porro vel dignissimos veniam mollitia neque!</small>
           </article>     
