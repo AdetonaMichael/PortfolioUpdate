@@ -17,13 +17,13 @@ const Certification = () => {
       <h2 style={{color:'#fff'}}>certifications</h2>
         <div className='container certifications__container'>
           <article className='certification'>
-          <h5 className='client__name'>Moses Ogboche</h5>
+          <h5 className='client__name'>Remote Mapathon Event</h5>
             <div className='client__pix'>
             <a data-fancybox="gallery" href={cert1}>
               <img src={cert1} alt="Clent pix"></img>
             </a>
             </div>
-             <small className='client__review'>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ducimus commodi porro vel dignissimos veniam mollitia neque!</small>
+             <small className='client__review'>Remote Mapathon Event Organized By Nigeria Energy Support Programe, Where I learnt the Fundamentals of JOSM, Mapped Remote Areas lacking power etc.</small>
           </article>
           <article className='certification'>
           <h5 className='client__name'>Moses Ogboche</h5>
@@ -80,13 +80,13 @@ const Certification = () => {
              <small className='client__review'>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ducimus commodi porro vel dignissimos veniam mollitia neque!</small>
           </article>     
           <article className='certification'>
-          <h5 className='client__name'>Moses Ogboche</h5>
+          <h5 className='client__name'>Global Monitoring for Environment and Security (GMES) </h5>
             <div className='client__pix'>
             <a data-fancybox="gallery" href={cert8}>
               <img src={cert8} alt="Clent pix"></img>
             </a>
             </div>
-             <small className='client__review'>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ducimus commodi porro vel dignissimos veniam mollitia neque!</small>
+             <small className='client__review'>Training Organized By ARCSSTEE. Was Thought VSAT Antenna Installation and Troubleshooting as well as downloading and Using Satellite Based Data.</small>
           </article>     
         </div>
      </section>

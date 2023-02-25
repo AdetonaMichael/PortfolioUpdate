@@ -33,6 +33,23 @@
    color:var(--color-white)
 }
 
+.libutton {
+    padding: 10px;
+    text-align: center;
+    outline: none;
+    text-decoration: none !important;
+    color: var(--color-bg-variant) !important;
+    width: 150px;
+    height: 21px;
+    border-radius: 45px;
+    background-color: var(--color-white);
+    font-family: "SF Pro Text", Helvetica, sans-serif;
+  }
+
+  #contact-btn{
+    display: flex;
+    justify-content: space-between;
+  }
 /*=================FORM=========================*/
 form{
     display: flex;

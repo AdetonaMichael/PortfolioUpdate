@@ -53,7 +53,10 @@ import emailjs from '@emailjs/browser';
               <input type="text" id="name" name="name" placeholder='Your Full Name' required/>
               <input type="email" id="email" name ="email" placeholder='Your Email' required/>
               <textarea name="message" id="message" rows="7" placeholder='Your Message'></textarea>
+              <div id="contact-btn">
               <button type="submit" className=' btn btn-primary'>Send Message</button>
+              <a className="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=cyberlord" target="_blank">Follow on LinkedIn</a>
+              </div>
             </form>
          </div>
     </section>
