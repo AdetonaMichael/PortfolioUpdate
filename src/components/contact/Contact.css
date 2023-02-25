@@ -39,7 +39,6 @@
     outline: none;
     text-decoration: none !important;
     color: var(--color-bg-variant) !important;
-    width: 150px;
     height: 21px;
     border-radius: 45px;
     background-color: var(--color-white);
