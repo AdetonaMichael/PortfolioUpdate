@@ -3,7 +3,7 @@ import './Portfolio.css';
 import IMG1 from '../../assets/portfolio1.PNG';
 import voot from '../../assets/voot.PNG';
 import portfolio3 from '../../assets/portfolio3.png';
-import IMG4 from '../../assets/portfolio4.jpg';
+import RemoB from '../../assets/RemoB.png';
 import GeoDiscuss from '../../assets/GeoDiscuss.jfif';
 import Emobile from '../../assets/emobile.png';
 
@@ -53,8 +53,8 @@ const Portfolio = () => {
         </article>
         <article className='portfolio__item'>
           <div className='portfolio__item-image'>
-          <a data-fancybox="gallery" href={IMG4}>
-            <img src={IMG4} alt="Discussion Forum"/>
+          <a data-fancybox="gallery" href={RemoB}>
+            <img src={RemoB} alt="Discussion Forum"/>
             </a>
           </div>
           <h3>This is a portfolio item title</h3>
