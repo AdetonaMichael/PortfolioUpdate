@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/PortfolioUpdate/static/css/main.abd27cc8.css",
-    "main.js": "/PortfolioUpdate/static/js/main.656211cd.js",
+    "main.css": "/PortfolioUpdate/static/css/main.06f0e99a.css",
+    "main.js": "/PortfolioUpdate/static/js/main.516c1735.js",
     "static/js/787.1ed0c42c.chunk.js": "/PortfolioUpdate/static/js/787.1ed0c42c.chunk.js",
     "static/media/cert5.PNG": "/PortfolioUpdate/static/media/cert5.6710fcebc1d40bd7d388.PNG",
     "static/media/cert3.PNG": "/PortfolioUpdate/static/media/cert3.8350cc13464f9b4ffc34.PNG",
     "static/media/cert8.PNG": "/PortfolioUpdate/static/media/cert8.c17c99fe7552461f26c6.PNG",
     "static/media/about_me.png": "/PortfolioUpdate/static/media/about_me.d9601424d8f6dcde2729.png",
     "static/media/me.png": "/PortfolioUpdate/static/media/me.1bde381ce8e6524a8909.png",
+    "static/media/RemoB.png": "/PortfolioUpdate/static/media/RemoB.ed8d61d7576ab6bcda30.png",
     "static/media/cert4.png": "/PortfolioUpdate/static/media/cert4.cfca75db59c2020824bb.png",
     "static/media/portfolio3.png": "/PortfolioUpdate/static/media/portfolio3.6b05809d9eb93d20d477.png",
     "static/media/GeoDiscuss.jfif": "/PortfolioUpdate/static/media/GeoDiscuss.703fdec29757d6f45983.jfif",
@@ -19,14 +20,13 @@
     "static/media/cert6.PNG": "/PortfolioUpdate/static/media/cert6.85e3c8f0ba853b4f6272.PNG",
     "static/media/cert7.PNG": "/PortfolioUpdate/static/media/cert7.daa369a121f151833e7e.PNG",
     "static/media/portfolio1.PNG": "/PortfolioUpdate/static/media/portfolio1.c9d9abf718e57af1fa79.PNG",
-    "static/media/portfolio4.jpg": "/PortfolioUpdate/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
     "index.html": "/PortfolioUpdate/index.html",
-    "main.abd27cc8.css.map": "/PortfolioUpdate/static/css/main.abd27cc8.css.map",
-    "main.656211cd.js.map": "/PortfolioUpdate/static/js/main.656211cd.js.map",
+    "main.06f0e99a.css.map": "/PortfolioUpdate/static/css/main.06f0e99a.css.map",
+    "main.516c1735.js.map": "/PortfolioUpdate/static/js/main.516c1735.js.map",
     "787.1ed0c42c.chunk.js.map": "/PortfolioUpdate/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.abd27cc8.css",
-    "static/js/main.656211cd.js"
+    "static/css/main.06f0e99a.css",
+    "static/js/main.516c1735.js"
   ]
 }
