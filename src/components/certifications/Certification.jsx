@@ -8,6 +8,7 @@ import cert5 from '../../assets/cert5.PNG';
 import cert6 from '../../assets/cert6.PNG';
 import cert7 from '../../assets/cert7.PNG';
 import cert8 from '../../assets/cert8.PNG';
+import SA from '../../assets/SA.PNG';
 
 
 const Certification = () => {
@@ -87,6 +88,15 @@ const Certification = () => {
             </a>
             </div>
              <small className='client__review'>Training Organized By ARCSSTEE. Was Thought VSAT Antenna Installation and Troubleshooting as well as downloading and Using Satellite Based Data.</small>
+          </article>     
+          <article className='certification'>
+          <h5 className='client__name'>Spatial Analysis Basics test</h5>
+            <div className='client__pix'>
+            <a data-fancybox="gallery" href={SA}>
+              <img src={SA} alt="Clent pix"></img>
+            </a>
+            </div>
+             <small className='client__review'>Completed ENSRI version of Getting Started With Spatial Analysis</small>
           </article>     
         </div>
      </section>
