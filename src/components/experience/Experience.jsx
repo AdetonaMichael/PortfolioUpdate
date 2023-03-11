@@ -67,6 +67,11 @@ const Experience = () => {
                      <h4>Git</h4>
                      <small className=''></small>
             </article>
+            <article className='experience__details'>
+                     <BsPatchCheckFill/>
+                     <h4>Google Cloud</h4>
+                     <small className=''></small>
+            </article>
             </div>
             </div>
             <div >

@@ -31,6 +31,7 @@
 }
 .service__list{
     padding:2rem;
+    color: darkgrey;
 }
 .service__list li{
     display:flex;

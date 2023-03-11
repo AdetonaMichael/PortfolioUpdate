@@ -19,7 +19,7 @@ code {
   box-sizing: 0;;
   list-style-type:none;
   text-decoration: none;
-  font-size: small;
+  font-size:small;
 }
 
 :root{
@@ -88,10 +88,11 @@ a:hover{
 .btn{
   width: max-content;
   display: inline-block;
-  color:var(--color-white);
+  color:var(--color-primary);
   padding: 0.80rem 1.8rem;
   border-radius: 45px;
   cursor:pointer;
+  background-color: white;
   transition: var(--transition);
 }
 .btn:hover{
