@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/PortfolioUpdate/static/css/main.06f0e99a.css",
-    "main.js": "/PortfolioUpdate/static/js/main.516c1735.js",
+    "main.js": "/PortfolioUpdate/static/js/main.f28953d5.js",
     "static/js/787.1ed0c42c.chunk.js": "/PortfolioUpdate/static/js/787.1ed0c42c.chunk.js",
     "static/media/cert5.PNG": "/PortfolioUpdate/static/media/cert5.6710fcebc1d40bd7d388.PNG",
     "static/media/cert3.PNG": "/PortfolioUpdate/static/media/cert3.8350cc13464f9b4ffc34.PNG",
@@ -10,6 +10,7 @@
     "static/media/me.png": "/PortfolioUpdate/static/media/me.1bde381ce8e6524a8909.png",
     "static/media/RemoB.png": "/PortfolioUpdate/static/media/RemoB.ed8d61d7576ab6bcda30.png",
     "static/media/cert4.png": "/PortfolioUpdate/static/media/cert4.cfca75db59c2020824bb.png",
+    "static/media/Quiz.PNG": "/PortfolioUpdate/static/media/Quiz.54d3e9ee983b22f9ce13.PNG",
     "static/media/portfolio3.png": "/PortfolioUpdate/static/media/portfolio3.6b05809d9eb93d20d477.png",
     "static/media/GeoDiscuss.jfif": "/PortfolioUpdate/static/media/GeoDiscuss.703fdec29757d6f45983.jfif",
     "static/media/cert1.PNG": "/PortfolioUpdate/static/media/cert1.e62b252f5a62c858a364.PNG",
@@ -22,11 +23,11 @@
     "static/media/portfolio1.PNG": "/PortfolioUpdate/static/media/portfolio1.c9d9abf718e57af1fa79.PNG",
     "index.html": "/PortfolioUpdate/index.html",
     "main.06f0e99a.css.map": "/PortfolioUpdate/static/css/main.06f0e99a.css.map",
-    "main.516c1735.js.map": "/PortfolioUpdate/static/js/main.516c1735.js.map",
+    "main.f28953d5.js.map": "/PortfolioUpdate/static/js/main.f28953d5.js.map",
     "787.1ed0c42c.chunk.js.map": "/PortfolioUpdate/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.06f0e99a.css",
-    "static/js/main.516c1735.js"
+    "static/js/main.f28953d5.js"
   ]
 }
