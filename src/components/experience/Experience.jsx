@@ -54,6 +54,11 @@ const Experience = () => {
             </article>
             <article className='experience__details'>
                      <BsPatchCheckFill/>
+                     <h4>NextJS</h4>
+                     <small className=''></small>
+            </article>
+            <article className='experience__details'>
+                     <BsPatchCheckFill/>
                      <h4>React Native</h4>
                      <small className=''></small>
             </article>
@@ -70,6 +75,21 @@ const Experience = () => {
             <article className='experience__details'>
                      <BsPatchCheckFill/>
                      <h4>Google Cloud</h4>
+                     <small className=''></small>
+            </article>
+            <article className='experience__details'>
+                     <BsPatchCheckFill/>
+                     <h4>Bitbucket</h4>
+                     <small className=''></small>
+            </article>
+            <article className='experience__details'>
+                     <BsPatchCheckFill/>
+                     <h4>YouTrack</h4>
+                     <small className=''></small>
+            </article>
+            <article className='experience__details'>
+                     <BsPatchCheckFill/>
+                     <h4>Trello</h4>
                      <small className=''></small>
             </article>
             </div>
