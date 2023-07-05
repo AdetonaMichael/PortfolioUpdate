@@ -1,22 +1,24 @@
 {
   "files": {
     "main.css": "/PortfolioUpdate/static/css/main.40841a56.css",
-    "main.js": "/PortfolioUpdate/static/js/main.6f7213fa.js",
+    "main.js": "/PortfolioUpdate/static/js/main.9465d31d.js",
     "static/js/787.1ed0c42c.chunk.js": "/PortfolioUpdate/static/js/787.1ed0c42c.chunk.js",
     "static/media/cert5.PNG": "/PortfolioUpdate/static/media/cert5.6710fcebc1d40bd7d388.PNG",
     "static/media/cert3.PNG": "/PortfolioUpdate/static/media/cert3.8350cc13464f9b4ffc34.PNG",
     "static/media/cert8.PNG": "/PortfolioUpdate/static/media/cert8.c17c99fe7552461f26c6.PNG",
     "static/media/about_me.png": "/PortfolioUpdate/static/media/about_me.d9601424d8f6dcde2729.png",
+    "static/media/adonis.png": "/PortfolioUpdate/static/media/adonis.fb6b1e85777a566d4564.png",
     "static/media/me.png": "/PortfolioUpdate/static/media/me.1bde381ce8e6524a8909.png",
     "static/media/RemoB.png": "/PortfolioUpdate/static/media/RemoB.ed8d61d7576ab6bcda30.png",
     "static/media/cert4.png": "/PortfolioUpdate/static/media/cert4.cfca75db59c2020824bb.png",
     "static/media/Quiz.PNG": "/PortfolioUpdate/static/media/Quiz.54d3e9ee983b22f9ce13.PNG",
     "static/media/portfolio3.png": "/PortfolioUpdate/static/media/portfolio3.6b05809d9eb93d20d477.png",
     "static/media/GeoDiscuss.jfif": "/PortfolioUpdate/static/media/GeoDiscuss.703fdec29757d6f45983.jfif",
+    "static/media/ebeacon_api.png": "/PortfolioUpdate/static/media/ebeacon_api.8a7cd349d47c1cb5a836.png",
+    "static/media/CV.pdf": "/PortfolioUpdate/static/media/CV.98da5ef8ba811a7be691.pdf",
     "static/media/cert1.PNG": "/PortfolioUpdate/static/media/cert1.e62b252f5a62c858a364.PNG",
     "static/media/SA.PNG": "/PortfolioUpdate/static/media/SA.f19989d8b17edb01f74b.PNG",
     "static/media/cert2.png": "/PortfolioUpdate/static/media/cert2.0c37b4649decabd0a9b4.png",
-    "static/media/CV.pdf": "/PortfolioUpdate/static/media/CV.d6b3a67920c17dff43e0.pdf",
     "static/media/voot.PNG": "/PortfolioUpdate/static/media/voot.c0b7c342753afb5b6b02.PNG",
     "static/media/emobile.png": "/PortfolioUpdate/static/media/emobile.0afff45590c53436a65e.png",
     "static/media/cert6.PNG": "/PortfolioUpdate/static/media/cert6.85e3c8f0ba853b4f6272.PNG",
@@ -24,11 +26,11 @@
     "static/media/portfolio1.PNG": "/PortfolioUpdate/static/media/portfolio1.c9d9abf718e57af1fa79.PNG",
     "index.html": "/PortfolioUpdate/index.html",
     "main.40841a56.css.map": "/PortfolioUpdate/static/css/main.40841a56.css.map",
-    "main.6f7213fa.js.map": "/PortfolioUpdate/static/js/main.6f7213fa.js.map",
+    "main.9465d31d.js.map": "/PortfolioUpdate/static/js/main.9465d31d.js.map",
     "787.1ed0c42c.chunk.js.map": "/PortfolioUpdate/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.40841a56.css",
-    "static/js/main.6f7213fa.js"
+    "static/js/main.9465d31d.js"
   ]
 }
