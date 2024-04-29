@@ -18,23 +18,23 @@ import { VscFolderLibrary } from 'react-icons/vsc';
             <div className='about__content'>
               <div className='about__cards'>
                 <article className='about__card'>
-                    <FaAward className='about__icon'/>
+                    <FaAward className='about__icon fa-2x'/>
                     <h5>Experience </h5>
-                    <small>3+ Years Working</small>
+                    <p>7+ Years Working</p>
                 </article>
                 <article className='about__card'>
                     <FaAward className='about__icon'/>
                     <h5>Projects </h5>
-                    <small>80+ Completed</small>
+                    <p>20 Clients Project Completed</p>
                 </article>
                 <article className='about__card'>
                     <VscFolderLibrary className='about__icon'/>
                     <h5>Experience </h5>
-                    <small>100+ World Wide</small>
+                    <p>3 Market Ready Solution With Pitches</p>
                 </article>
               </div>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima id mollitia rerum at facilis minus est vel maxime repellendus ex debitis iusto sed porro eius, non nam incidunt nulla. Quibusdam!
+                I Speicialize is in Building Mordern Solutions that Scale, A fan of Best Practices, Navigating entire development life cycle While  Paying attention to every detail. I hate Codebases that Smells and I love it when the system i am developing or contributing to is well structured and Easy to Navigate and understand. 
             </p>
             <a href="#contact" style={{marginTop:'20px'}} className='btn btn-primary'>Let's Talk</a>
             <a className="btn btn-primary" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=cyberlord" target="_blank">Follow on LinkedIn</a>

@@ -10,7 +10,7 @@ const Experience = () => {
 
         <div className='container experience__container'>
             <div >
-            <h3>Techology & Framework</h3>
+            <h3>Techology, Framework & Tools</h3>
             <div className='experience__GIS'>
             <article className='experience__details'>
                      <BsPatchCheckFill/>
@@ -84,12 +84,22 @@ const Experience = () => {
             </article>
             <article className='experience__details'>
                      <BsPatchCheckFill/>
+                     <h4>Inertia.js</h4>
+                     <small className=''></small>
+            </article>
+            <article className='experience__details'>
+                     <BsPatchCheckFill/>
                      <h4>YouTrack</h4>
                      <small className=''></small>
             </article>
             <article className='experience__details'>
                      <BsPatchCheckFill/>
                      <h4>Trello</h4>
+                     <small className=''></small>
+            </article>
+            <article className='experience__details'>
+                     <BsPatchCheckFill/>
+                     <h4>Assana</h4>
                      <small className=''></small>
             </article>
             </div>
@@ -115,6 +125,16 @@ const Experience = () => {
             <article className='experience__details'>
                      <BsPatchCheckFill/>
                      <h4>GIS Mobile</h4>
+                     <small className=''></small>
+            </article>
+            <article className='experience__details'>
+                     <BsPatchCheckFill/>
+                     <h4>Geo Server</h4>
+                     <small className=''></small>
+            </article>
+            <article className='experience__details'>
+                     <BsPatchCheckFill/>
+                     <h4>Geo Portals</h4>
                      <small className=''></small>
             </article>
             </div>
